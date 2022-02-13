@@ -1,0 +1,36 @@
+C:\Users\famco\OneDrive\Escritorio\Proyectos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.vbproj.AssemblyReference.cache
+C:\Users\famco\OneDrive\Escritorio\Proyectos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica_3.Form1.resources
+C:\Users\famco\OneDrive\Escritorio\Proyectos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.vbproj.GenerateResource.cache
+C:\Users\famco\OneDrive\Escritorio\Proyectos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famco\OneDrive\Escritorio\Proyectos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.AssemblyInfoInputs.cache
+C:\Users\famco\OneDrive\Escritorio\Proyectos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.AssemblyInfo.vb
+C:\Users\famco\OneDrive\Escritorio\Proyectos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.vbproj.CoreCompileInputs.cache
+C:\Users\famco\OneDrive\Escritorio\Proyectos\Practica 3\Practica 3\bin\Debug\net6.0-windows\Practica 3.exe
+C:\Users\famco\OneDrive\Escritorio\Proyectos\Practica 3\Practica 3\bin\Debug\net6.0-windows\Practica 3.deps.json
+C:\Users\famco\OneDrive\Escritorio\Proyectos\Practica 3\Practica 3\bin\Debug\net6.0-windows\Practica 3.runtimeconfig.json
+C:\Users\famco\OneDrive\Escritorio\Proyectos\Practica 3\Practica 3\bin\Debug\net6.0-windows\Practica 3.dll
+C:\Users\famco\OneDrive\Escritorio\Proyectos\Practica 3\Practica 3\bin\Debug\net6.0-windows\ref\Practica 3.dll
+C:\Users\famco\OneDrive\Escritorio\Proyectos\Practica 3\Practica 3\bin\Debug\net6.0-windows\Practica 3.pdb
+C:\Users\famco\OneDrive\Escritorio\Proyectos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.dll
+C:\Users\famco\OneDrive\Escritorio\Proyectos\Practica 3\Practica 3\obj\Debug\net6.0-windows\ref\Practica 3.dll
+C:\Users\famco\OneDrive\Escritorio\Proyectos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.pdb
+C:\Users\famco\OneDrive\Escritorio\Proyectos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.genruntimeconfig.cache
+C:\Users\famco\OneDrive\Escritorio\Proyectos\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica_3.Form2.resources
+C:\Users\oswal\OneDrive\Escritorio\Practica 3\Practica 3\bin\Debug\net6.0-windows\Practica 3.exe
+C:\Users\oswal\OneDrive\Escritorio\Practica 3\Practica 3\bin\Debug\net6.0-windows\Practica 3.deps.json
+C:\Users\oswal\OneDrive\Escritorio\Practica 3\Practica 3\bin\Debug\net6.0-windows\Practica 3.runtimeconfig.json
+C:\Users\oswal\OneDrive\Escritorio\Practica 3\Practica 3\bin\Debug\net6.0-windows\Practica 3.dll
+C:\Users\oswal\OneDrive\Escritorio\Practica 3\Practica 3\bin\Debug\net6.0-windows\ref\Practica 3.dll
+C:\Users\oswal\OneDrive\Escritorio\Practica 3\Practica 3\bin\Debug\net6.0-windows\Practica 3.pdb
+C:\Users\oswal\OneDrive\Escritorio\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.vbproj.AssemblyReference.cache
+C:\Users\oswal\OneDrive\Escritorio\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica_3.Form1.resources
+C:\Users\oswal\OneDrive\Escritorio\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica_3.Form2.resources
+C:\Users\oswal\OneDrive\Escritorio\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.vbproj.GenerateResource.cache
+C:\Users\oswal\OneDrive\Escritorio\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oswal\OneDrive\Escritorio\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.AssemblyInfoInputs.cache
+C:\Users\oswal\OneDrive\Escritorio\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.AssemblyInfo.vb
+C:\Users\oswal\OneDrive\Escritorio\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\OneDrive\Escritorio\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.dll
+C:\Users\oswal\OneDrive\Escritorio\Practica 3\Practica 3\obj\Debug\net6.0-windows\ref\Practica 3.dll
+C:\Users\oswal\OneDrive\Escritorio\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.pdb
+C:\Users\oswal\OneDrive\Escritorio\Practica 3\Practica 3\obj\Debug\net6.0-windows\Practica 3.genruntimeconfig.cache
