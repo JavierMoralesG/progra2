@@ -1,0 +1,17 @@
+C:\Users\oswal\OneDrive\Escritorio\201700671_Hospital\bin\Debug\net6.0-windows\201700671_Hospital.exe
+C:\Users\oswal\OneDrive\Escritorio\201700671_Hospital\bin\Debug\net6.0-windows\201700671_Hospital.deps.json
+C:\Users\oswal\OneDrive\Escritorio\201700671_Hospital\bin\Debug\net6.0-windows\201700671_Hospital.runtimeconfig.json
+C:\Users\oswal\OneDrive\Escritorio\201700671_Hospital\bin\Debug\net6.0-windows\201700671_Hospital.dll
+C:\Users\oswal\OneDrive\Escritorio\201700671_Hospital\bin\Debug\net6.0-windows\ref\201700671_Hospital.dll
+C:\Users\oswal\OneDrive\Escritorio\201700671_Hospital\bin\Debug\net6.0-windows\201700671_Hospital.pdb
+C:\Users\oswal\OneDrive\Escritorio\201700671_Hospital\obj\Debug\net6.0-windows\_201700671_Hospital.Form1.resources
+C:\Users\oswal\OneDrive\Escritorio\201700671_Hospital\obj\Debug\net6.0-windows\201700671_Hospital.vbproj.GenerateResource.cache
+C:\Users\oswal\OneDrive\Escritorio\201700671_Hospital\obj\Debug\net6.0-windows\201700671_Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oswal\OneDrive\Escritorio\201700671_Hospital\obj\Debug\net6.0-windows\201700671_Hospital.AssemblyInfoInputs.cache
+C:\Users\oswal\OneDrive\Escritorio\201700671_Hospital\obj\Debug\net6.0-windows\201700671_Hospital.AssemblyInfo.vb
+C:\Users\oswal\OneDrive\Escritorio\201700671_Hospital\obj\Debug\net6.0-windows\201700671_Hospital.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\OneDrive\Escritorio\201700671_Hospital\obj\Debug\net6.0-windows\201700671_Hospital.dll
+C:\Users\oswal\OneDrive\Escritorio\201700671_Hospital\obj\Debug\net6.0-windows\ref\201700671_Hospital.dll
+C:\Users\oswal\OneDrive\Escritorio\201700671_Hospital\obj\Debug\net6.0-windows\201700671_Hospital.pdb
+C:\Users\oswal\OneDrive\Escritorio\201700671_Hospital\obj\Debug\net6.0-windows\201700671_Hospital.genruntimeconfig.cache
+C:\Users\oswal\OneDrive\Escritorio\201700671_Hospital\obj\Debug\net6.0-windows\201700671_Hospital.vbproj.AssemblyReference.cache
