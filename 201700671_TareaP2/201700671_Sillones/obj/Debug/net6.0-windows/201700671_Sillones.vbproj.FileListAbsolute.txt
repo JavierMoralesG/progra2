@@ -1,0 +1,17 @@
+C:\Users\oswal\OneDrive\Escritorio\201700671_Sillones\obj\Debug\net6.0-windows\201700671_Sillones.vbproj.AssemblyReference.cache
+C:\Users\oswal\OneDrive\Escritorio\201700671_Sillones\obj\Debug\net6.0-windows\_201700671_Sillones.Form1.resources
+C:\Users\oswal\OneDrive\Escritorio\201700671_Sillones\obj\Debug\net6.0-windows\201700671_Sillones.vbproj.GenerateResource.cache
+C:\Users\oswal\OneDrive\Escritorio\201700671_Sillones\obj\Debug\net6.0-windows\201700671_Sillones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oswal\OneDrive\Escritorio\201700671_Sillones\obj\Debug\net6.0-windows\201700671_Sillones.AssemblyInfoInputs.cache
+C:\Users\oswal\OneDrive\Escritorio\201700671_Sillones\obj\Debug\net6.0-windows\201700671_Sillones.AssemblyInfo.vb
+C:\Users\oswal\OneDrive\Escritorio\201700671_Sillones\obj\Debug\net6.0-windows\201700671_Sillones.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\OneDrive\Escritorio\201700671_Sillones\bin\Debug\net6.0-windows\201700671_Sillones.exe
+C:\Users\oswal\OneDrive\Escritorio\201700671_Sillones\bin\Debug\net6.0-windows\201700671_Sillones.deps.json
+C:\Users\oswal\OneDrive\Escritorio\201700671_Sillones\bin\Debug\net6.0-windows\201700671_Sillones.runtimeconfig.json
+C:\Users\oswal\OneDrive\Escritorio\201700671_Sillones\bin\Debug\net6.0-windows\201700671_Sillones.dll
+C:\Users\oswal\OneDrive\Escritorio\201700671_Sillones\bin\Debug\net6.0-windows\ref\201700671_Sillones.dll
+C:\Users\oswal\OneDrive\Escritorio\201700671_Sillones\bin\Debug\net6.0-windows\201700671_Sillones.pdb
+C:\Users\oswal\OneDrive\Escritorio\201700671_Sillones\obj\Debug\net6.0-windows\201700671_Sillones.dll
+C:\Users\oswal\OneDrive\Escritorio\201700671_Sillones\obj\Debug\net6.0-windows\ref\201700671_Sillones.dll
+C:\Users\oswal\OneDrive\Escritorio\201700671_Sillones\obj\Debug\net6.0-windows\201700671_Sillones.pdb
+C:\Users\oswal\OneDrive\Escritorio\201700671_Sillones\obj\Debug\net6.0-windows\201700671_Sillones.genruntimeconfig.cache
