@@ -1,0 +1,17 @@
+C:\Users\oswal\OneDrive\Escritorio\201700671_AUTOS\bin\Debug\net6.0-windows\201700671_AUTOS.exe
+C:\Users\oswal\OneDrive\Escritorio\201700671_AUTOS\bin\Debug\net6.0-windows\201700671_AUTOS.deps.json
+C:\Users\oswal\OneDrive\Escritorio\201700671_AUTOS\bin\Debug\net6.0-windows\201700671_AUTOS.runtimeconfig.json
+C:\Users\oswal\OneDrive\Escritorio\201700671_AUTOS\bin\Debug\net6.0-windows\201700671_AUTOS.dll
+C:\Users\oswal\OneDrive\Escritorio\201700671_AUTOS\bin\Debug\net6.0-windows\ref\201700671_AUTOS.dll
+C:\Users\oswal\OneDrive\Escritorio\201700671_AUTOS\bin\Debug\net6.0-windows\201700671_AUTOS.pdb
+C:\Users\oswal\OneDrive\Escritorio\201700671_AUTOS\obj\Debug\net6.0-windows\201700671_AUTOS.vbproj.AssemblyReference.cache
+C:\Users\oswal\OneDrive\Escritorio\201700671_AUTOS\obj\Debug\net6.0-windows\_201700671_AUTOS.Form1.resources
+C:\Users\oswal\OneDrive\Escritorio\201700671_AUTOS\obj\Debug\net6.0-windows\201700671_AUTOS.vbproj.GenerateResource.cache
+C:\Users\oswal\OneDrive\Escritorio\201700671_AUTOS\obj\Debug\net6.0-windows\201700671_AUTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oswal\OneDrive\Escritorio\201700671_AUTOS\obj\Debug\net6.0-windows\201700671_AUTOS.AssemblyInfoInputs.cache
+C:\Users\oswal\OneDrive\Escritorio\201700671_AUTOS\obj\Debug\net6.0-windows\201700671_AUTOS.AssemblyInfo.vb
+C:\Users\oswal\OneDrive\Escritorio\201700671_AUTOS\obj\Debug\net6.0-windows\201700671_AUTOS.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\OneDrive\Escritorio\201700671_AUTOS\obj\Debug\net6.0-windows\201700671_AUTOS.dll
+C:\Users\oswal\OneDrive\Escritorio\201700671_AUTOS\obj\Debug\net6.0-windows\ref\201700671_AUTOS.dll
+C:\Users\oswal\OneDrive\Escritorio\201700671_AUTOS\obj\Debug\net6.0-windows\201700671_AUTOS.pdb
+C:\Users\oswal\OneDrive\Escritorio\201700671_AUTOS\obj\Debug\net6.0-windows\201700671_AUTOS.genruntimeconfig.cache
